@@ -1,0 +1,20 @@
+    1  python
+    2  tree
+    3  history > command.txt
+    1  python
+    2  tree
+    3  history > command.txt
+    4  exit
+    5  history >> command.txt
+
+
+    1  ls
+    2  pipenv install pandas
+    3  ls
+    4  git add .
+    5  git commit -m "checking gitpod commit"
+    6  git push
+    7  ls
+    8  pipenv --three install pandas
+    9  pipenv shell
+   10  history >> command.txt

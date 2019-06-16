@@ -1,4 +1,4 @@
-#!/workspace/gitpodPlay/.venv/bin/python2.7
+#!/workspace/gitpodPlay/.venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
